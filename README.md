@@ -5,12 +5,12 @@
 
 
 
-## Template Demo https://colorlib.com/polygon/gentelella/index.html
+# Template Demo https://colorlib.com/polygon/gentelella/index.html
 
-# Installation
- # Step 1
-  # With GIT
- # Clone git repository  
+<p> Installation
+ Step 1
+   With GIT
+ Clone git repository</p>  
 
 # With Git SSH
 
