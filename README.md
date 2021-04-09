@@ -7,16 +7,16 @@
 
 # Template Demo https://colorlib.com/polygon/gentelella/index.html
 
-<p> Installation
- Step 1
+# Installation
+<p>  Step 1
    With GIT
  Clone git repository</p>  
 
-# With Git SSH
+<p> With Git SSH</p>
 
 `git clone https://github.com/usmanbasharmal123/gentelella.git`
 
-# Go to the project folder
+<p>Go to the project folder</p>
 
 `cd gentelella`
 
@@ -24,18 +24,18 @@ Update composer
 
 `composer update`
 
-## With Composer
+# With Composer
 
 `composer create-project florientr/laravel-gentelella MyProject`
 
-## Step 2
-# Copy .env.example file to .env
+<p>Step 2
+Copy .env.example file to .env
 
-# For Unix
+For Unix</p>
 
 `cp .env.example .env`
 
-# For Windows
+<p> For Windows</p>
 
 `copy .env.example .env`
 
