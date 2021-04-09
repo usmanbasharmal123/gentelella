@@ -5,9 +5,9 @@
 
 
 
-# Template Demo https://colorlib.com/polygon/gentelella/index.html
+## Template Demo https://colorlib.com/polygon/gentelella/index.html
 
-# Installation
+## Installation
 <p>  Step 1
    With GIT
  Clone git repository</p>  
