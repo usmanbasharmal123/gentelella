@@ -5,56 +5,56 @@
 
 
 
-Template Demo https://colorlib.com/polygon/gentelella/index.html
+## Template Demo https://colorlib.com/polygon/gentelella/index.html
 
-Installation
- Step 1
- With GIT
- Clone git repository  
+## Installation
+ ## Step 1
+  # With GIT
+ # Clone git repository  
 
-With Git SSH
+# With Git SSH
 
 `git clone https://github.com/usmanbasharmal123/gentelella.git`
 
-Go to the project folder
+# Go to the project folder
 
-cd gentelella
+`cd gentelella`
 
-`Update composer`
+Update composer
 
-composer update
+`composer update`
 
-With Composer
+## With Composer
 
 `composer create-project florientr/laravel-gentelella MyProject`
 
-Step 2
-Copy .env.example file to .env
+## Step 2
+# Copy .env.example file to .env
 
-For Unix
+# For Unix
 
 `cp .env.example .env`
 
-For Windows
+# For Windows
 
 `copy .env.example .env`
 
-Next, run this follow commands
+# Next, run this follow commands
 
-!! YOU NEED TO INSTALL NODE.JS FOR USE NPM !!
+>!! YOU NEED TO INSTALL NODE.JS FOR USE NPM !!
 
-For install all NPM package
+# For install all NPM package
 
 `npm install`
 
-And then, run this commands
+# And then, run this commands
 
 `php artisan key:generate`
-Configure your .env file and run :
+ # Configure your .env file and run :
 
 `php artisan migrate`
 
-You are ready for a new Laravel 7.4 application with Gentelella template !!
+# You are ready for a new Laravel 7.4 application with Gentelella template !!
 
 
 
