@@ -7,8 +7,8 @@
 
 ## Template Demo https://colorlib.com/polygon/gentelella/index.html
 
-## Installation
- ## Step 1
+# Installation
+ # Step 1
   # With GIT
  # Clone git repository  
 
