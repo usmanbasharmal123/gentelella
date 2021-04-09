@@ -1,13 +1,13 @@
 Template Demo https://colorlib.com/polygon/gentelella/index.html
 
 Installation
-Step 1
-With GIT
-Clone git repository
+ Step 1
+ With GIT
+ Clone git repository  
 
 With Git SSH
 
-git clone git@github.com:FlorientR/laravel-gentelella.git
+`git clone https://github.com/usmanbasharmal123/gentelella.git`
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
