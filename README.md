@@ -39,22 +39,22 @@ For Unix</p>
 
 `copy .env.example .env`
 
-### Next, run this follow commands
+#### Next, run this follow commands
 
 >!! YOU NEED TO INSTALL NODE.JS FOR USE NPM !!
 
-# For install all NPM package
+#### For install all NPM package
 
 `npm install`
 
-# And then, run this commands
+#### And then, run this commands
 
 `php artisan key:generate`
- # Configure your .env file and run :
+ #### Configure your .env file and run :
 
 `php artisan migrate`
 
-# You are ready for a new Laravel 7.4 application with Gentelella template !!
+#### You are ready for a new Laravel 7.4 application with Gentelella template !!
 
 
 
