@@ -24,7 +24,7 @@ Update composer
 
 `composer update`
 
-# With Composer
+<p> With Composer</P>
 
 `composer create-project florientr/laravel-gentelella MyProject`
 
@@ -39,7 +39,7 @@ For Unix</p>
 
 `copy .env.example .env`
 
-# Next, run this follow commands
+### Next, run this follow commands
 
 >!! YOU NEED TO INSTALL NODE.JS FOR USE NPM !!
 
