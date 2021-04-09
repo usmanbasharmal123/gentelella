@@ -1,6 +1,7 @@
 
 
 
+![image](https://user-images.githubusercontent.com/54000575/114224909-f0d39e80-9986-11eb-9161-f68ef30cd716.png)
 
 
 
@@ -14,6 +15,54 @@ Installation
 With Git SSH
 
 `git clone https://github.com/usmanbasharmal123/gentelella.git`
+
+Go to the project folder
+
+cd gentelella
+
+`Update composer`
+
+composer update
+
+With Composer
+
+`composer create-project florientr/laravel-gentelella MyProject`
+
+Step 2
+Copy .env.example file to .env
+
+For Unix
+
+`cp .env.example .env`
+
+For Windows
+
+`copy .env.example .env`
+
+Next, run this follow commands
+
+!! YOU NEED TO INSTALL NODE.JS FOR USE NPM !!
+
+For install all NPM package
+
+`npm install`
+
+And then, run this commands
+
+`php artisan key:generate`
+Configure your .env file and run :
+
+`php artisan migrate`
+
+You are ready for a new Laravel 7.4 application with Gentelella template !!
+
+
+
+
+
+
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
